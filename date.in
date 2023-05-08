@@ -1,0 +1,16 @@
+14
+q1 q9 q11
+q0 None q1
+q0 None q6
+q1 a q2
+q1 c q4
+q2 b q3
+q3 a q6
+q4 b q5
+q5 c q6
+q6 None q1
+q6 None q7
+q7 a q8
+q7 c q10
+q8 c q9
+q10 a q11
